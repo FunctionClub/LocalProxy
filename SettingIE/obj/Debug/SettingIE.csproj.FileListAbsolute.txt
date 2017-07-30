@@ -1,0 +1,17 @@
+C:\Users\lenovo\documents\visual studio 2017\Projects\SettingIE\SettingIE\bin\Debug\SettingIE.exe.config
+C:\Users\lenovo\documents\visual studio 2017\Projects\SettingIE\SettingIE\bin\Debug\SettingIE.exe
+C:\Users\lenovo\documents\visual studio 2017\Projects\SettingIE\SettingIE\bin\Debug\SettingIE.pdb
+C:\Users\lenovo\documents\visual studio 2017\Projects\SettingIE\SettingIE\obj\Debug\SettingIE.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\documents\visual studio 2017\Projects\SettingIE\SettingIE\obj\Debug\SettingIE.Properties.Resources.resources
+C:\Users\lenovo\documents\visual studio 2017\Projects\SettingIE\SettingIE\obj\Debug\SettingIE.csproj.GenerateResource.Cache
+C:\Users\lenovo\documents\visual studio 2017\Projects\SettingIE\SettingIE\obj\Debug\SettingIE.exe
+C:\Users\lenovo\documents\visual studio 2017\Projects\SettingIE\SettingIE\obj\Debug\SettingIE.pdb
+\\Mac\Home\Desktop\SettingIE\SettingIE\bin\Debug\SettingIE.exe.config
+\\Mac\Home\Desktop\SettingIE\SettingIE\bin\Debug\SettingIE.exe
+\\Mac\Home\Desktop\SettingIE\SettingIE\bin\Debug\SettingIE.pdb
+\\Mac\Home\Desktop\SettingIE\SettingIE\obj\Debug\SettingIE.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\SettingIE\SettingIE\obj\Debug\SettingIE.Form1.resources
+\\Mac\Home\Desktop\SettingIE\SettingIE\obj\Debug\SettingIE.Properties.Resources.resources
+\\Mac\Home\Desktop\SettingIE\SettingIE\obj\Debug\SettingIE.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\SettingIE\SettingIE\obj\Debug\SettingIE.exe
+\\Mac\Home\Desktop\SettingIE\SettingIE\obj\Debug\SettingIE.pdb
